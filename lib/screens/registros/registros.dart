@@ -1,0 +1,11 @@
+export 'package:ministerios/screens/registros/registros_screen.dart';
+export 'package:ministerios/screens/registros/registros_audiovisual.dart';
+export 'package:ministerios/screens/registros/registros_audiovisual_pc.dart';
+export 'package:ministerios/screens/registros/registros_sonido.dart';
+export 'package:ministerios/screens/registros/registros_organizacion.dart';
+export 'package:ministerios/screens/registros/registros_calle.dart';
+export 'package:ministerios/screens/registros/registros_fotografia.dart';
+export 'package:ministerios/screens/registros/registros_cena.dart';
+export 'package:ministerios/screens/registros/registros_estetica.dart';
+export 'package:ministerios/screens/registros/registros_musicos.dart';
+export 'package:ministerios/screens/registros/registros_voces.dart';
